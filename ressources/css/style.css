@@ -6,6 +6,21 @@
 
 html{
     background:#fff;
-    font-size:20px;
-    text-rendering:optimizeLegibility
+    font-size:50px;
+    text-rendering:optimizeLegibility;
+    font-family:'Source Sans Pro', sans-serif;
+    
 }
+
+
+
+div {
+    height:100px;
+    width:100px;
+    background-color:blue;
+    display:inline-block;
+    margin:5px
+}
+    
+
+    
